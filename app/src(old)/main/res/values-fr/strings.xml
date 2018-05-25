@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlaylistViewer</string>
+    <string name="language">Langue</string>
+    <string name="select_language">Sélectionner une langue</string>
+    <string name="download">Données en cours de téléchargement ...</string>
+    <string name="credits_title">Crédits</string>
+    <string name="credits_text">Cette application a été réalisée par :\n\u2022 Ugo Tagnati\n\u2022 Vincent Kerharo</string>
+    <string name="update">Mettre à jour la liste</string>
+    <string name="lang_en">Anglais</string>
+    <string name="lang_fr">Français</string>
+</resources>

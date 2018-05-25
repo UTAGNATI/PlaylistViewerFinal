@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PlaylistViewer</string>
+    <string name="select_language">Select a language</string>
+    <string name="language">Language</string>
+    <string name="download">Data download in progress ...</string>
+    <string name="credits_title">Credits</string>
+    <string name="credits_text">This application has been created by:\n\u2022 Ugo Tagnati\n\u2022 Vincent Kerharo</string>
+    <string name="update">Update playlist</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fr">French</string>
+    <string name="notification_desc">The list was successfully downloaded</string>
+    <string name="notification_title">Download</string>
+    <string name="err_preview_title">Error</string>
+    <string name="err_preview_text">The preview URL is missing</string>
+
+
+</resources>
